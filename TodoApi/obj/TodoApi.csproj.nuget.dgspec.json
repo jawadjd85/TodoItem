@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/Users/admin/Projects/TodoApi/TodoApi/TodoApi.csproj": {}
+    "/Users/admin/Projects/TodoApi/vinay/TodoItem/TodoApi/TodoApi.csproj": {}
   },
   "projects": {
-    "/Users/admin/Projects/TodoApi/TodoApi/TodoApi.csproj": {
+    "/Users/admin/Projects/TodoApi/vinay/TodoItem/TodoApi/TodoApi.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/admin/Projects/TodoApi/TodoApi/TodoApi.csproj",
+        "projectUniqueName": "/Users/admin/Projects/TodoApi/vinay/TodoItem/TodoApi/TodoApi.csproj",
         "projectName": "TodoApi",
-        "projectPath": "/Users/admin/Projects/TodoApi/TodoApi/TodoApi.csproj",
+        "projectPath": "/Users/admin/Projects/TodoApi/vinay/TodoItem/TodoApi/TodoApi.csproj",
         "packagesPath": "/Users/admin/.nuget/packages/",
-        "outputPath": "/Users/admin/Projects/TodoApi/TodoApi/obj/",
+        "outputPath": "/Users/admin/Projects/TodoApi/vinay/TodoItem/TodoApi/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/admin/.nuget/NuGet/NuGet.Config"
