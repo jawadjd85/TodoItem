@@ -1,6 +1,6 @@
 # TodoItem
 
-#Description
+# Description
 
 This project demonstrates how to create a simple API using .NET Core. The API allows users to manage a list of Todo items. Users can add new Todo items, update existing items, retrieve a list of all items, and delete items.
 
@@ -15,10 +15,10 @@ This project demonstrates how to create a simple API using .NET Core. The API al
 # Installation
 
 1. Clone the repository:
-**git clone https://github.com/yourusername/todo-api-dotnet-core.git**
+`git clone https://github.com/yourusername/todo-api-dotnet-core.git`
 
 2. Change into the project directory:
-**cd todo-api-dotnet-core**
+`cd todo-api-dotnet-core`
 
 3. Build the project:
 `dotnet build`
@@ -31,7 +31,7 @@ This project demonstrates how to create a simple API using .NET Core. The API al
 
 To use the API, you can make HTTP requests using your preferred API client (e.g., Postman, cURL, etc.) or use a tool like Swagger UI, which provides a user-friendly interface for testing APIs.
 
-#API Endpoints
+# API Endpoints
 
 The following are the available API endpoints:
 
@@ -50,26 +50,26 @@ URL: /api/todoitems
 Method: POST
 Description: Create a new Todo item.
 
-4.Update a Todo item
+4. Update a Todo item
 URL: /api/todoitems/{id}
 Method: PUT
 Description: Update an existing Todo item.
 
-5.Delete a Todo item
+5. Delete a Todo item
 URL: /api/todoitems/{id}
 Method: DELETE
 Description: Delete a Todo item by its ID.
 
-#Contributing
+# Contributing
 
 We welcome contributions from the community! To contribute to this project:
 
-Fork the repository
-Create a new branch
-Make your changes and commit them
-Push your changes to your forked repository
-Create a pull request to the original repository's main branch
+1. Fork the repository
+2. Create a new branch
+3. Make your changes and commit them
+4. Push your changes to your forked repository
+5. Create a pull request to the original repository's main branch
 
-#Contact
+# Contact
 
 Feel free to contact me at this email @gmail.com for any queries
